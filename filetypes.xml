@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="cf" type="PLAIN_TEXT" />
+      <mapping pattern="op-cache" type="PLAIN_TEXT" />
+      <mapping ext="license" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="ref" type="PLAIN_TEXT" />
+      <mapping ext="931242654231" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="93-1410292727" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

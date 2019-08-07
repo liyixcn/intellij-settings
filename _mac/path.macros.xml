@@ -1,0 +1,9 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="/Users/liyixa/Library/Application Support/IdeaIC2019.1/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/liyixa/.m2/repository" />
+    <macro name="MODELER_18_2" value="/Users/liyixa/Applications/SPSSModeler.app/Contents" />
+    <macro name="MODELER_DIR" value="/Users/liyixa/Applications/SPSSModeler.app/Contents" />
+    <macro name="MODELER_SUBS" value="/Applications/IBMSPSSModelerSub/1.0/SPSSModelerSubscription.app/Contents" />
+  </component>
+</application>
